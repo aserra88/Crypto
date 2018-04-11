@@ -27,7 +27,7 @@ object Main {
 
     try {
       val chiave = args(0)
-
+      val scemo = ""
 
       val xmlFile = XML.loadFile("/home/wce/clsadmin/test/Spark/Crypto/prova.xml")
 
